@@ -1,5 +1,4 @@
 ## 👋 Hello! I'm Ilyasa.
-- 🌱 I’m currently learning NodeJS
 - 📫 You can contact me at ilyasarecord@gmail.com
 -------
 
